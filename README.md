@@ -25,7 +25,7 @@ Servlet程序、Filter过滤器、Listener监听器、jsp页面、EL表达式、
     2. 修改选购的商品数量
     3. 进行结算
     4. 清空购物车
- ![](./results/cart.png)   
+ ![](./results/cartPage.png)   
 5. 后台管理
     1. 修改商品信息
     2. 添加商品
